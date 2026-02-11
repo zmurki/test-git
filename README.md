@@ -1,1 +1,1 @@
-Hello, Git!
+Hi, man! How are you?
